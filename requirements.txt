@@ -1,0 +1,4 @@
+psutil>=5.9.0
+argparse>=1.4.0
+datetime>=4.3
+re>=2.2.1
